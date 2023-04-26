@@ -1,6 +1,6 @@
 # microservices-java-spring-boot-mysql
 
-Repository template for a project using the microservices architecture in Java with Spring Boot and MySQL.
+Template for a project using the microservices architecture in Java with Spring Boot and MySQL.
 
 It contains two sample microservices:
 
